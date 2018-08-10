@@ -1,0 +1,43 @@
+{
+    "description": "This algorithm gives list of maps in a text as an entity(key) and a list of other mentions of that entity as values.", 
+    "license": {
+        "text": "CognitiveScale", 
+        "type": "Apache"
+    }, 
+    "tags": [
+        {
+            "value": "skill.deployment.cloud", 
+            "label": "Cloud"
+        }, 
+        {
+            "value": "skill.machine_learning_style.text_analytics", 
+            "label": "Text Analytics"
+        }, 
+        {
+            "value": "skill.service_providers.algorithmia", 
+            "label": "Algorithmia"
+        }, 
+        {
+            "value": "skill.status.install", 
+            "label": "Install"
+        }
+    ], 
+    "price": {
+        "value": "00", 
+        "unit": "CCU"
+    }, 
+    "title": "Detecting Coreferences", 
+    "asset": {
+        "description": "This algorithm gives list of maps in a text as an entity(key) and a list of other mentions of that entity as values.", 
+        "name": "cortex/detecting_coreferences", 
+        "title": "Detecting Coreferences"
+    }, 
+    "tutorials": [
+        {
+            "videoLink": "http://video.avi", 
+            "description": "Tutorial Description", 
+            "title": "Tutorial Title"
+        }
+    ], 
+    "icon": "http://icon.png"
+}

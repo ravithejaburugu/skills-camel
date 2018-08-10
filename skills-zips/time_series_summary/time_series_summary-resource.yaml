@@ -1,0 +1,43 @@
+{
+    "description": "Returns the summary statistics of the time series like Mean, Variance, Standard Deviation, min Value, max Value, Slope, Intercept value etc..,.", 
+    "license": {
+        "text": "CognitiveScale", 
+        "type": "Apache"
+    }, 
+    "tags": [
+        {
+            "value": "skill.deployment.cloud", 
+            "label": "Cloud"
+        }, 
+        {
+            "value": "skill.learning-algorithm.feature-optimization", 
+            "label": "Feature - Optimization"
+        }, 
+        {
+            "value": "skill.service_providers.algorithmia", 
+            "label": "Algorithmia"
+        }, 
+        {
+            "value": "skill.status.install", 
+            "label": "Install"
+        }
+    ], 
+    "price": {
+        "value": "00", 
+        "unit": "CCU"
+    }, 
+    "title": "Time Series Summary", 
+    "asset": {
+        "description": "Returns the summary statistics of the time series like Mean, Variance, Standard Deviation, min Value, max Value, Slope, Intercept value etc..,.", 
+        "name": "cortex/time_series_summary", 
+        "title": "Time Series Summary"
+    }, 
+    "tutorials": [
+        {
+            "videoLink": "http://video.avi", 
+            "description": "Tutorial Description", 
+            "title": "Tutorial Title"
+        }
+    ], 
+    "icon": "http://icon.png"
+}

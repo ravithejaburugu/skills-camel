@@ -1,0 +1,51 @@
+{
+    "description": "Detects the positive, negative and neutral sentiment of a given list of sentences.", 
+    "license": {
+        "text": "CognitiveScale", 
+        "type": "Apache"
+    }, 
+    "tags": [
+        {
+            "value": "skill.deployment.cloud", 
+            "label": "Cloud"
+        }, 
+        {
+            "value": "skill.cognitive_function.emotion", 
+            "label": "Emotion"
+        }, 
+        {
+            "value": "skill.cognitive_function.language", 
+            "label": "Language"
+        }, 
+        {
+            "value": "skill.machine_learning_style.text_analytics", 
+            "label": "Text Analytics"
+        }, 
+        {
+            "value": "skill.service_providers.algorithmia", 
+            "label": "Algorithmia"
+        }, 
+        {
+            "value": "skill.status.install", 
+            "label": "Install"
+        }
+    ], 
+    "price": {
+        "value": "00", 
+        "unit": "CCU"
+    }, 
+    "title": "Sentiment By List", 
+    "asset": {
+        "description": "Detects the positive, negative and neutral sentiment of a given list of sentences.", 
+        "name": "cortex/sentiment_by_list", 
+        "title": "Sentiment By List"
+    }, 
+    "tutorials": [
+        {
+            "videoLink": "http://video.avi", 
+            "description": "Tutorial Description", 
+            "title": "Tutorial Title"
+        }
+    ], 
+    "icon": "http://icon.png"
+}

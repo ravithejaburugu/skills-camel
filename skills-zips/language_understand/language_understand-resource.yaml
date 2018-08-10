@@ -1,0 +1,55 @@
+{
+    "description": "Identify the important parts in the given input text and summarizes the content by returning the key terms.", 
+    "license": {
+        "text": "CognitiveScale", 
+        "type": "Apache"
+    }, 
+    "tags": [
+        {
+            "value": "skill.deployment.cloud", 
+            "label": "Cloud"
+        }, 
+        {
+            "value": "skill.cognitive_function.Grammar/Sentence", 
+            "label": "Grammar/Sentence"
+        }, 
+        {
+            "value": "skill.cognitive_function.entity_resolution", 
+            "label": "Entity Resolution"
+        }, 
+        {
+            "value": "skill.service_providers.azure", 
+            "label": "Microsoft Azure"
+        }, 
+        {
+            "value": "skill.service_providers.aws", 
+            "label": "AWS"
+        }, 
+        {
+            "value": "skill.service_providers.ibm", 
+            "label": "IBM Watson"
+        }, 
+        {
+            "value": "skill.status.install", 
+            "label": "Install"
+        }
+    ], 
+    "price": {
+        "value": "00", 
+        "unit": "CCU"
+    }, 
+    "title": "Language Understand", 
+    "asset": {
+        "description": "Identify the important parts in the given input text and summarizes the content by returning the key terms.", 
+        "name": "cortex/language_understand", 
+        "title": "Language Understand"
+    }, 
+    "tutorials": [
+        {
+            "videoLink": "http://video.avi", 
+            "description": "Tutorial Description", 
+            "title": "Tutorial Title"
+        }
+    ], 
+    "icon": "http://icon.png"
+}

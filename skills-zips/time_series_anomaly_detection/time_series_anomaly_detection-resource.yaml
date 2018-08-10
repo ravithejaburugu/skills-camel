@@ -1,0 +1,43 @@
+{
+    "description": "Anomaly detection can be best used for IoT, Fraud detection and IT Ops.", 
+    "license": {
+        "text": "CognitiveScale", 
+        "type": "Apache"
+    }, 
+    "tags": [
+        {
+            "value": "skill.deployment.cloud", 
+            "label": "Cloud"
+        }, 
+        {
+            "value": "agent.pattern.event_detection", 
+            "label": "Event Detection"
+        }, 
+        {
+            "value": "skill.service_providers.algorithmia", 
+            "label": "Algorithmia"
+        }, 
+        {
+            "value": "skill.status.install", 
+            "label": "Install"
+        }
+    ], 
+    "price": {
+        "value": "00", 
+        "unit": "CCU"
+    }, 
+    "title": "Time Series Anomaly Detection", 
+    "asset": {
+        "description": "Anomaly detection can be best used for IoT, Fraud detection and IT Ops.", 
+        "name": "cortex/time_series_anomaly_detection", 
+        "title": "Time Series Anomaly Detection"
+    }, 
+    "tutorials": [
+        {
+            "videoLink": "http://video.avi", 
+            "description": "Tutorial Description", 
+            "title": "Tutorial Title"
+        }
+    ], 
+    "icon": "http://icon.png"
+}

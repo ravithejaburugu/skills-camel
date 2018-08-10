@@ -1,0 +1,47 @@
+{
+    "description": "Classifies places like amusement_arcade,apartment_building,outdoor,aquarium in an image.", 
+    "license": {
+        "text": "CognitiveScale", 
+        "type": "Apache"
+    }, 
+    "tags": [
+        {
+            "value": "skill.deployment.cloud", 
+            "label": "Cloud"
+        }, 
+        {
+            "value": "skill.machine_learning_style.deep_learning", 
+            "label": "Deep Learning"
+        }, 
+        {
+            "value": "skill.cognitive_function.vision", 
+            "label": "Vision"
+        }, 
+        {
+            "value": "skill.service_providers.algorithmia", 
+            "label": "Algorithmia"
+        }, 
+        {
+            "value": "skill.status.install", 
+            "label": "Install"
+        }
+    ], 
+    "price": {
+        "value": "00", 
+        "unit": "CCU"
+    }, 
+    "title": "Detect Places", 
+    "asset": {
+        "description": "Classifies places like amusement_arcade,apartment_building,outdoor,aquarium in an image.", 
+        "name": "cortex/detect_places", 
+        "title": "Detect Places"
+    }, 
+    "tutorials": [
+        {
+            "videoLink": "http://video.avi", 
+            "description": "Tutorial Description", 
+            "title": "Tutorial Title"
+        }
+    ], 
+    "icon": "http://icon.png"
+}

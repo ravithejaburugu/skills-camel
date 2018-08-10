@@ -1,0 +1,67 @@
+{
+    "description": "Inspects text and returns an inference of the prevailing sentiment (POSITIVE, NEUTRAL, or NEGATIVE)along with sentiment score on a scale of 0-1.", 
+    "license": {
+        "text": "CognitiveScale", 
+        "type": "Apache"
+    }, 
+    "tags": [
+        {
+            "value": "skill.deployment.cloud", 
+            "label": "Cloud"
+        }, 
+        {
+            "value": "skill.machine_learning_style.supervised_learning", 
+            "label": "Supervised Learning"
+        }, 
+        {
+            "value": "skill.cognitive_function.emotion", 
+            "label": "Emotion"
+        }, 
+        {
+            "value": "skill.cognitive_function.Grammar/Sentence", 
+            "label": "Grammar/Sentence"
+        }, 
+        {
+            "value": "skill.service_providers.azure", 
+            "label": "Microsoft Azure"
+        }, 
+        {
+            "value": "skill.service_providers.aws", 
+            "label": "AWS"
+        }, 
+        {
+            "value": "skill.service_providers.ibm", 
+            "label": "IBM Watson"
+        }, 
+        {
+            "value": "skill.service_providers.google", 
+            "label": "Google"
+        }, 
+        {
+            "value": "skill.service_providers.algorithmia", 
+            "label": "Algorithmia"
+        }, 
+        {
+            "value": "skill.status.install", 
+            "label": "Install"
+        }
+    ], 
+    "price": {
+        "value": "00", 
+        "unit": "CCU"
+    }, 
+    "title": "Sentiment Analysis", 
+    "asset": {
+        "description": "Inspects text and returns an inference of the prevailing sentiment (POSITIVE, NEUTRAL, or NEGATIVE)along with sentiment score on a scale of 0-1.", 
+        "name": "cortex/sentiment_analysis", 
+        "title": "Sentiment Analysis"
+    }, 
+    "tutorials": [
+        {
+            "videoLink": "http://video.avi", 
+            "description": "Tutorial Description", 
+            "title": "Tutorial Title"
+        }
+    ], 
+    "icon": "http://icon.png"
+}

@@ -1,0 +1,47 @@
+{
+    "description": "Gets possible values of skin color for the detected people in a pictures, only one face should be in an image.", 
+    "license": {
+        "text": "CognitiveScale", 
+        "type": "Apache"
+    }, 
+    "tags": [
+        {
+            "value": "skill.deployment.cloud", 
+            "label": "Cloud"
+        }, 
+        {
+            "value": "skill.machine_learning_style.deep_learning", 
+            "label": "Deep Learning"
+        }, 
+        {
+            "value": "skill.cognitive_function.vision", 
+            "label": "Vision"
+        }, 
+        {
+            "value": "skill.service_providers.algorithmia", 
+            "label": "Algorithmia"
+        }, 
+        {
+            "value": "skill.status.install", 
+            "label": "Install"
+        }
+    ], 
+    "price": {
+        "value": "00", 
+        "unit": "CCU"
+    }, 
+    "title": "Skin Color Detection", 
+    "asset": {
+        "description": "Gets possible values of skin color for the detected people in a pictures, only one face should be in an image.", 
+        "name": "cortex/skin_color_detection", 
+        "title": "Skin Color Detection"
+    }, 
+    "tutorials": [
+        {
+            "videoLink": "http://video.avi", 
+            "description": "Tutorial Description", 
+            "title": "Tutorial Title"
+        }
+    ], 
+    "icon": "http://icon.png"
+}

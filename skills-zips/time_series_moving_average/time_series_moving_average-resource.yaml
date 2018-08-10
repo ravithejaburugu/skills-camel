@@ -1,0 +1,43 @@
+{
+    "description": "Returns the Simple, Exponential and Cumulative Moving Averages of a time series. This can be used to smooth a time series.", 
+    "license": {
+        "text": "CognitiveScale", 
+        "type": "Apache"
+    }, 
+    "tags": [
+        {
+            "value": "skill.deployment.cloud", 
+            "label": "Cloud"
+        }, 
+        {
+            "value": "skill.learning-algorithm.prediction", 
+            "label": "Prediction (Regression)"
+        }, 
+        {
+            "value": "skill.service_providers.algorithmia", 
+            "label": "Algorithmia"
+        }, 
+        {
+            "value": "skill.status.install", 
+            "label": "Install"
+        }
+    ], 
+    "price": {
+        "value": "00", 
+        "unit": "CCU"
+    }, 
+    "title": "Time Series Moving Average", 
+    "asset": {
+        "description": "Returns the Simple, Exponential and Cumulative Moving Averages of a time series. This can be used to smooth a time series.", 
+        "name": "cortex/time_series_moving_average", 
+        "title": "Time Series Moving Average"
+    }, 
+    "tutorials": [
+        {
+            "videoLink": "http://video.avi", 
+            "description": "Tutorial Description", 
+            "title": "Tutorial Title"
+        }
+    ], 
+    "icon": "http://icon.png"
+}

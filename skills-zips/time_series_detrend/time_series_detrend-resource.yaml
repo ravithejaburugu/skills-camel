@@ -1,0 +1,43 @@
+{
+    "description": "Fits a linear trend to the time series data, and returns the dataset with the linear trend subtracted out.", 
+    "license": {
+        "text": "CognitiveScale", 
+        "type": "Apache"
+    }, 
+    "tags": [
+        {
+            "value": "skill.deployment.cloud", 
+            "label": "Cloud"
+        }, 
+        {
+            "value": "skill.learning-algorithm.feature_optimization", 
+            "label": "Feature Optimization"
+        }, 
+        {
+            "value": "skill.service_providers.algorithmia", 
+            "label": "Algorithmia"
+        }, 
+        {
+            "value": "skill.status.install", 
+            "label": "Install"
+        }
+    ], 
+    "price": {
+        "value": "00", 
+        "unit": "CCU"
+    }, 
+    "title": "Time Series Detrend", 
+    "asset": {
+        "description": "Fits a linear trend to the time series data, and returns the dataset with the linear trend subtracted out.", 
+        "name": "cortex/time_series_detrend", 
+        "title": "Time Series Detrend"
+    }, 
+    "tutorials": [
+        {
+            "videoLink": "http://video.avi", 
+            "description": "Tutorial Description", 
+            "title": "Tutorial Title"
+        }
+    ], 
+    "icon": "http://icon.png"
+}

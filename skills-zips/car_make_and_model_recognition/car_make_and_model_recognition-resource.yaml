@@ -1,0 +1,51 @@
+{
+    "description": "This algorithm will classify cars by their make, model, body style and model year from given images.", 
+    "license": {
+        "text": "CognitiveScale", 
+        "type": "Apache"
+    }, 
+    "tags": [
+        {
+            "value": "skill.deployment.cloud", 
+            "label": "Cloud"
+        }, 
+        {
+            "value": "skill.machine_learning_style.deep_learning", 
+            "label": "Deep Learning"
+        }, 
+        {
+            "value": "skill.machine_learning_style.supervised_learning", 
+            "label": "Supervised Learning"
+        }, 
+        {
+            "value": "skill.cognitive_function.vision", 
+            "label": "Vision"
+        }, 
+        {
+            "value": "skill.service_providers.algorithmia", 
+            "label": "Algorithmia"
+        }, 
+        {
+            "value": "skill.status.install", 
+            "label": "Install"
+        }
+    ], 
+    "price": {
+        "value": "00", 
+        "unit": "CCU"
+    }, 
+    "title": "Car Make And Model Recognition", 
+    "asset": {
+        "description": "This algorithm will classify cars by their make, model, body style and model year from given images.", 
+        "name": "cortex/car_make_and_model_recognition", 
+        "title": "Car Make And Model Recognition"
+    }, 
+    "tutorials": [
+        {
+            "videoLink": "http://video.avi", 
+            "description": "Tutorial Description", 
+            "title": "Tutorial Title"
+        }
+    ], 
+    "icon": "http://icon.png"
+}

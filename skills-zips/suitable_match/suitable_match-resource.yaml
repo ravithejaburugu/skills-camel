@@ -1,0 +1,43 @@
+{
+    "description": "This skill finds a stable matching in which there is no pair of elements where both members prefer their partner in a different matching over their partner in the stable matching.", 
+    "license": {
+        "text": "CognitiveScale", 
+        "type": "Apache"
+    }, 
+    "tags": [
+        {
+            "value": "skill.deployment.cloud", 
+            "label": "Cloud"
+        }, 
+        {
+            "value": "skill.learning-algorithm.tagging", 
+            "label": "Tagging"
+        }, 
+        {
+            "value": "skill.service_providers.algorithmia", 
+            "label": "Algorithmia"
+        }, 
+        {
+            "value": "skill.status.install", 
+            "label": "Install"
+        }
+    ], 
+    "price": {
+        "value": "00", 
+        "unit": "CCU"
+    }, 
+    "title": "Suitable Match", 
+    "asset": {
+        "description": "This skill finds a stable matching in which there is no pair of elements where both members prefer their partner in a different matching over their partner in the stable matching.", 
+        "name": "cortex/suitable_match", 
+        "title": "Suitable Match"
+    }, 
+    "tutorials": [
+        {
+            "videoLink": "http://video.avi", 
+            "description": "Tutorial Description", 
+            "title": "Tutorial Title"
+        }
+    ], 
+    "icon": "http://icon.png"
+}

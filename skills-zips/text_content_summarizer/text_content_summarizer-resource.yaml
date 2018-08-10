@@ -1,0 +1,47 @@
+{
+    "description": "Provides a brief summary of the input text.", 
+    "license": {
+        "text": "CognitiveScale", 
+        "type": "Apache"
+    }, 
+    "tags": [
+        {
+            "value": "skill.deployment.cloud", 
+            "label": "Cloud"
+        }, 
+        {
+            "value": "skill.cognitive_function.Grammar/Sentence", 
+            "label": "Grammar/Sentence"
+        }, 
+        {
+            "value": "skill.cognitive_function.entity_resolution", 
+            "label": "Entity Resolution"
+        }, 
+        {
+            "value": "skill.service_providers.algorithmia", 
+            "label": "Algorithmia"
+        }, 
+        {
+            "value": "skill.status.install", 
+            "label": "Install"
+        }
+    ], 
+    "price": {
+        "value": "00", 
+        "unit": "CCU"
+    }, 
+    "title": "Text Content Summarizer", 
+    "asset": {
+        "description": "Provides a brief summary of the input text.", 
+        "name": "cortex/text_content_summarizer", 
+        "title": "Text Content Summarizer"
+    }, 
+    "tutorials": [
+        {
+            "videoLink": "http://video.avi", 
+            "description": "Tutorial Description", 
+            "title": "Tutorial Title"
+        }
+    ], 
+    "icon": "http://icon.png"
+}

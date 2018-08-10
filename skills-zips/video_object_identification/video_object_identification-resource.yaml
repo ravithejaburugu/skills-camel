@@ -1,0 +1,43 @@
+{
+    "description": "Returns list of all the objects that are identified in the given input video.", 
+    "license": {
+        "text": "CognitiveScale", 
+        "type": "Apache"
+    }, 
+    "tags": [
+        {
+            "value": "skill.deployment.cloud", 
+            "label": "Cloud"
+        }, 
+        {
+            "value": "skill.machine_learning_style.deep_learning", 
+            "label": "Deep Learning"
+        }, 
+        {
+            "value": "skill.service_providers.google", 
+            "label": "Google"
+        }, 
+        {
+            "value": "skill.status.install", 
+            "label": "Install"
+        }
+    ], 
+    "price": {
+        "value": "00", 
+        "unit": "CCU"
+    }, 
+    "title": "Video Object Identification", 
+    "asset": {
+        "description": "Returns list of all the objects that are identified in the given input video.", 
+        "name": "cortex/video_object_identification", 
+        "title": "Video Object Identification"
+    }, 
+    "tutorials": [
+        {
+            "videoLink": "http://video.avi", 
+            "description": "Tutorial Description", 
+            "title": "Tutorial Title"
+        }
+    ], 
+    "icon": "http://icon.png"
+}

@@ -1,0 +1,47 @@
+{
+    "description": "Syntax Analysis extracts linguistic information from given text.", 
+    "license": {
+        "text": "CognitiveScale", 
+        "type": "Apache"
+    }, 
+    "tags": [
+        {
+            "value": "skill.deployment.cloud", 
+            "label": "Cloud"
+        }, 
+        {
+            "value": "skill.service_providers.google", 
+            "label": "Google"
+        }, 
+        {
+            "value": "skill.machine_learning_style.text_analytics", 
+            "label": "Text Analytics"
+        }, 
+        {
+            "value": "skill.cognitive_function.Grammar/Sentence", 
+            "label": "Grammar/Sentence"
+        }, 
+        {
+            "value": "skill.status.install", 
+            "label": "Install"
+        }
+    ], 
+    "price": {
+        "value": "00", 
+        "unit": "CCU"
+    }, 
+    "title": "Syntax Analysis", 
+    "asset": {
+        "description": "Syntax Analysis extracts linguistic information from given text.", 
+        "name": "cortex/syntax_analysis", 
+        "title": "Syntax Analysis"
+    }, 
+    "tutorials": [
+        {
+            "videoLink": "http://video.avi", 
+            "description": "Tutorial Description", 
+            "title": "Tutorial Title"
+        }
+    ], 
+    "icon": "http://icon.png"
+}

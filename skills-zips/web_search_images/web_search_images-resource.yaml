@@ -1,0 +1,51 @@
+{
+    "description": "This skill will search image related details in web.", 
+    "license": {
+        "text": "CognitiveScale", 
+        "type": "Apache"
+    }, 
+    "tags": [
+        {
+            "value": "skill.deployment.cloud", 
+            "label": "Cloud"
+        }, 
+        {
+            "value": "skill.machine_learning_style.deep_learning", 
+            "label": "Deep Learning"
+        }, 
+        {
+            "value": "skill.cognitive_function.search", 
+            "label": "Search"
+        }, 
+        {
+            "value": "skill.cognitive_function.vision", 
+            "label": "Vision"
+        }, 
+        {
+            "value": "skill.service_providers.azure", 
+            "label": "Microsoft Azure"
+        }, 
+        {
+            "value": "skill.status.install", 
+            "label": "Install"
+        }
+    ], 
+    "price": {
+        "value": "00", 
+        "unit": "CCU"
+    }, 
+    "title": "Web Search Images", 
+    "asset": {
+        "description": "This skill will search image related details in web.", 
+        "name": "cortex/web_search_images", 
+        "title": "Web Search Images"
+    }, 
+    "tutorials": [
+        {
+            "videoLink": "http://video.avi", 
+            "description": "Tutorial Description", 
+            "title": "Tutorial Title"
+        }
+    ], 
+    "icon": "http://icon.png"
+}

@@ -1,0 +1,55 @@
+{
+    "description": "Detects the objects that are persent in an image.", 
+    "license": {
+        "text": "CognitiveScale", 
+        "type": "Apache"
+    }, 
+    "tags": [
+        {
+            "value": "skill.deployment.cloud", 
+            "label": "Cloud"
+        }, 
+        {
+            "value": "skill.machine_learning_style.deep_learning", 
+            "label": "Deep Learning"
+        }, 
+        {
+            "value": "skill.cognitive_function.vision", 
+            "label": "Vision"
+        }, 
+        {
+            "value": "skill.machine_learning_style.supervised_learning", 
+            "label": "Supervised Learning"
+        }, 
+        {
+            "value": "skill.service_providers.aws", 
+            "label": "AWS"
+        }, 
+        {
+            "value": "skill.service_providers.ibm", 
+            "label": "IBM Watson"
+        }, 
+        {
+            "value": "skill.status.install", 
+            "label": "Install"
+        }
+    ], 
+    "price": {
+        "value": "00", 
+        "unit": "CCU"
+    }, 
+    "title": "Object Identification", 
+    "asset": {
+        "description": "Detects the objects that are persent in an image.", 
+        "name": "cortex/object_identification", 
+        "title": "Object Identification"
+    }, 
+    "tutorials": [
+        {
+            "videoLink": "http://video.avi", 
+            "description": "Tutorial Description", 
+            "title": "Tutorial Title"
+        }
+    ], 
+    "icon": "http://icon.png"
+}

@@ -1,0 +1,43 @@
+{
+    "description": "Personality Insights derives insights from transactional and social media data to identify psychological traits which determine purchase decisions, intent and behavioral traits, utilized to improve conversion rates.", 
+    "license": {
+        "text": "CognitiveScale", 
+        "type": "Apache"
+    }, 
+    "tags": [
+        {
+            "value": "skill.deployment.cloud", 
+            "label": "Cloud"
+        }, 
+        {
+            "value": "skill.machine_learning_style.deep_learning", 
+            "label": "Deep Learning"
+        }, 
+        {
+            "value": "skill.service_providers.ibm", 
+            "label": "IBM Watson"
+        }, 
+        {
+            "value": "skill.status.install", 
+            "label": "Install"
+        }
+    ], 
+    "price": {
+        "value": "00", 
+        "unit": "CCU"
+    }, 
+    "title": "Personality Insights", 
+    "asset": {
+        "description": "Personality Insights derives insights from transactional and social media data to identify psychological traits which determine purchase decisions, intent and behavioral traits, utilized to improve conversion rates.", 
+        "name": "cortex/personality_insights", 
+        "title": "Personality Insights"
+    }, 
+    "tutorials": [
+        {
+            "videoLink": "http://video.avi", 
+            "description": "Tutorial Description", 
+            "title": "Tutorial Title"
+        }
+    ], 
+    "icon": "http://icon.png"
+}

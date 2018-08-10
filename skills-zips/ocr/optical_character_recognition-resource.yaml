@@ -1,0 +1,55 @@
+{
+    "description": "This API Can be used to detect text in an image. This Extracts recognized characters into a machine-usable character stream.", 
+    "license": {
+        "text": "CognitiveScale", 
+        "type": "Apache"
+    }, 
+    "tags": [
+        {
+            "value": "skill.deployment.cloud", 
+            "label": "Cloud"
+        }, 
+        {
+            "value": "skill.machine_learning_style.deep_learning", 
+            "label": "Deep Learning"
+        }, 
+        {
+            "value": "skill.cognitive_function.vision", 
+            "label": "Vision"
+        }, 
+        {
+            "value": "skill.service_providers.azure", 
+            "label": "Microsoft Azure"
+        }, 
+        {
+            "value": "skill.service_providers.aws", 
+            "label": "AWS"
+        }, 
+        {
+            "value": "skill.service_providers.google", 
+            "label": "Google"
+        }, 
+        {
+            "value": "skill.status.install", 
+            "label": "Install"
+        }
+    ], 
+    "price": {
+        "value": "00", 
+        "unit": "CCU"
+    }, 
+    "title": "Optical Character Recognition (OCR)", 
+    "asset": {
+        "description": "This API Can be used to detect text in an image. This Extracts recognized characters into a machine-usable character stream.", 
+        "name": "cortex/optical_character_recognition", 
+        "title": "Optical Character Recognition (OCR)"
+    }, 
+    "tutorials": [
+        {
+            "videoLink": "http://video.avi", 
+            "description": "Tutorial Description", 
+            "title": "Tutorial Title"
+        }
+    ], 
+    "icon": "http://icon.png"
+}

@@ -1,0 +1,39 @@
+{
+    "description": "Finds weather condition for a given location.", 
+    "license": {
+        "text": "CognitiveScale", 
+        "type": "Apache"
+    }, 
+    "tags": [
+        {
+            "value": "skill.deployment.cloud", 
+            "label": "Cloud"
+        }, 
+	{
+            "value": "skill.service_providers.yahoo", 
+            "label": "Yahoo"
+        }, 
+        {
+            "value": "skill.status.install", 
+            "label": "Install"
+        }
+    ], 
+    "price": {
+        "value": "00", 
+        "unit": "CCU"
+    }, 
+    "title": "Weather Condition", 
+    "asset": {
+        "description": "Finds weather condition for a given location.", 
+        "name": "cortex/weather_condition", 
+        "title": "Weather Condition"
+    }, 
+    "tutorials": [
+        {
+            "videoLink": "http://video.avi", 
+            "description": "Tutorial Description", 
+            "title": "Tutorial Title"
+        }
+    ], 
+    "icon": "http://icon.png"
+}

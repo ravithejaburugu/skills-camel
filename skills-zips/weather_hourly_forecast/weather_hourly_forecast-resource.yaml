@@ -1,0 +1,39 @@
+{
+    "description": "You can request an hourly weather forecast for the next 48 hours starting from the current time.", 
+    "license": {
+        "text": "CognitiveScale", 
+        "type": "Apache"
+    }, 
+    "tags": [
+        {
+            "value": "skill.deployment.cloud", 
+            "label": "Cloud"
+        }, 
+        {
+            "value": "skill.service_providers.ibm", 
+            "label": "IBM Watson"
+        }, 
+        {
+            "value": "skill.status.install", 
+            "label": "Install"
+        }
+    ], 
+    "price": {
+        "value": "00", 
+        "unit": "CCU"
+    }, 
+    "title": "Hourly Weather Forecast", 
+    "asset": {
+        "description": "You can request an hourly weather forecast for the next 48 hours starting from the current time.", 
+        "name": "cortex/weather_hourly_forecast", 
+        "title": "Hourly Weather Forecast"
+    }, 
+    "tutorials": [
+        {
+            "videoLink": "http://video.avi", 
+            "description": "Tutorial Description", 
+            "title": "Tutorial Title"
+        }
+    ], 
+    "icon": "http://icon.png"
+}

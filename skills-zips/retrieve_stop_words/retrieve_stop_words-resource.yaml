@@ -1,0 +1,43 @@
+{
+    "description": "Returns a list of common stop words. Based on Mallet's list of stop words and http://www.ranks.nl/stopwords.", 
+    "license": {
+        "text": "CognitiveScale", 
+        "type": "Apache"
+    }, 
+    "tags": [
+        {
+            "value": "skill.deployment.cloud", 
+            "label": "Cloud"
+        }, 
+        {
+            "value": "skill.cognitive_function.text", 
+            "label": "Text"
+        }, 
+        {
+            "value": "skill.service_providers.algorithmia", 
+            "label": "Algorithmia"
+        }, 
+        {
+            "value": "skill.status.install", 
+            "label": "Install"
+        }
+    ], 
+    "price": {
+        "value": "00", 
+        "unit": "CCU"
+    }, 
+    "title": "Retrieve Stop Words", 
+    "asset": {
+        "description": "Returns a list of common stop words. Based on Mallet's list of stop words and http://www.ranks.nl/stopwords.", 
+        "name": "cortex/retrieve_stop_words", 
+        "title": "Retrieve Stop Words"
+    }, 
+    "tutorials": [
+        {
+            "videoLink": "http://video.avi", 
+            "description": "Tutorial Description", 
+            "title": "Tutorial Title"
+        }
+    ], 
+    "icon": "http://icon.png"
+}

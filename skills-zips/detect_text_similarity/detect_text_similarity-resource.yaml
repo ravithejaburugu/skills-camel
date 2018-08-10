@@ -1,0 +1,55 @@
+{
+    "description": "This algorithm will compare documents (can be any kind of document) and report which documents are the most similar.", 
+    "license": {
+        "text": "CognitiveScale", 
+        "type": "Apache"
+    }, 
+    "tags": [
+        {
+            "value": "skill.deployment.cloud", 
+            "label": "Cloud"
+        }, 
+        {
+            "value": "skill.machine_learning_style.text_analytics", 
+            "label": "Text Analytics"
+        }, 
+        {
+            "value": "skill.machine_learning_style", 
+            "label": "Machine Learning Style"
+        }, 
+        {
+            "value": "skill.cognitive_function.language", 
+            "label": "Language"
+        }, 
+        {
+            "value": "skill.cognitive_function.Grammar/Sentence", 
+            "label": "Grammar/Sentence"
+        }, 
+        {
+            "value": "skill.service_providers.algorithmia", 
+            "label": "Algorithmia"
+        }, 
+        {
+            "value": "skill.status.install", 
+            "label": "Install"
+        }
+    ], 
+    "price": {
+        "value": "00", 
+        "unit": "CCU"
+    }, 
+    "title": "Detect Text Similarity", 
+    "asset": {
+        "description": "This algorithm will compare documents (can be any kind of document) and report which documents are the most similar.", 
+        "name": "cortex/detect_text_similarity", 
+        "title": "Detect Text Similarity"
+    }, 
+    "tutorials": [
+        {
+            "videoLink": "http://video.avi", 
+            "description": "Tutorial Description", 
+            "title": "Tutorial Title"
+        }
+    ], 
+    "icon": "http://icon.png"
+}
